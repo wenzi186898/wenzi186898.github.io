@@ -61,6 +61,25 @@
     
     
     <entry>
+      <title>疑难解答</title>
+      <link href="/2022/09/15/%E7%96%91%E9%9A%BE%E8%A7%A3%E7%AD%94/"/>
+      <url>/2022/09/15/%E7%96%91%E9%9A%BE%E8%A7%A3%E7%AD%94/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件打开无反应-未响应-不出现界面-闪退"><a href="#软件打开无反应-未响应-不出现界面-闪退" class="headerlink" title="软件打开无反应 未响应 不出现界面 闪退"></a>软件打开无反应 未响应 不出现界面 闪退</h2><h3 id="解决方法①"><a href="#解决方法①" class="headerlink" title="解决方法①"></a>解决方法①</h3><p>右键选择管理员模式运行</p><h3 id="解决方法②"><a href="#解决方法②" class="headerlink" title="解决方法②"></a>解决方法②</h3><p>添加数据执行保护</p><p><a href="https://jingyan.baidu.com/article/fdbd4277be6211b89e3f48ed.html">操作方法</a></p><h4 id="注-如数据执行保护的位置是灰色，无法点击请按照如下操作尝试"><a href="#注-如数据执行保护的位置是灰色，无法点击请按照如下操作尝试" class="headerlink" title="注:如数据执行保护的位置是灰色，无法点击请按照如下操作尝试"></a>注:如数据执行保护的位置是灰色，无法点击请按照如下操作尝试</h4><ul><li><p>1,win+S 打开系统搜索栏</p></li><li><p>2,输入 CMD 然后回车搜索出命令提示符程序</p></li><li><p>3,管理员模式运行 CMD (命令提示符) 程序</p></li><li><p>4,粘贴 bcdedit.exe &#x2F;set {current} nx OptIn 然后回车</p></li><li><p>5,提示 “操作成功完成” 即可重启电脑后添加数据执行保护了。</p></li><li><p>如提示 “无法访问” 则是因为没有管理员模式运行 命令提示符！</p></li></ul><h2 id="软件被杀毒软件查杀"><a href="#软件被杀毒软件查杀" class="headerlink" title="软件被杀毒软件查杀"></a>软件被杀毒软件查杀</h2><p>声明:本工具保证安全无毒,被报毒原因如下:易语言编写,软件有加保护壳,涉及到读写配置文本等。</p><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><ul><li><p>1,在杀毒软件处添加信任(缺点,更新后新版本也需要重新添加)</p></li><li><p>2,卸载杀毒软件,并安装 火绒安全 为您的电脑保驾护航。(国内公认的良心产品) 火绒官网下载地址:<a href="https://www.huorong.cn/">https://www.huorong.cn/</a></p></li><li><p>3,如是win10系统自带杀毒,可参考上方 方法2解决。或关闭 “实时保护” 参考方法:<a href="https://www.52zixue.com/dnjc/05/21/30277/">https://www.52zixue.com/dnjc/05/21/30277/</a></p></li><li><p>注:不建议用方法3解决，推荐方法2解决。</p></li></ul><h2 id="软件打开乱码或部分区域乱码"><a href="#软件打开乱码或部分区域乱码" class="headerlink" title="软件打开乱码或部分区域乱码"></a>软件打开乱码或部分区域乱码</h2><h3 id="异常原因"><a href="#异常原因" class="headerlink" title="异常原因"></a>异常原因</h3><p>程序不支持Unicode编码</p><ul><li><p>1,解决方法:<a href="https://blog.csdn.net/wgl307293845/article/details/108707060">https://blog.csdn.net/wgl307293845/article/details/108707060</a></p></li><li><p>2,解决方法:<a href="https://jingyan.baidu.com/article/d8072ac4ba20cfec94cefd48.html">https://jingyan.baidu.com/article/d8072ac4ba20cfec94cefd48.html</a></p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 关于其他 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于下载</title>
       <link href="/2022/09/14/%E5%85%B3%E4%BA%8E%E4%B8%8B%E8%BD%BD/"/>
       <url>/2022/09/14/%E5%85%B3%E4%BA%8E%E4%B8%8B%E8%BD%BD/</url>
